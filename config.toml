@@ -1,9 +1,8 @@
-[Youtube]
+[Youtube-Amoled]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-apkmirror-arch = "arm64-v8a"
 included-patches = "force-hide-player-button-background materialyou"
 excluded-patches = "custom-branding-youtube-name custom-branding-icon-revancify-blue"
