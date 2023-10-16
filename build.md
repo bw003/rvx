@@ -1,7 +1,8 @@
-Youtube-Amoled: 18.36.39  
 YT-Music: 6.22.51  
 
-Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/download/v0.2.27.230755/microg.apk) for non-root YouTube or YT Music  
+Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/download/v0.2.27.230755/microg.apk) for non-root YouTube and YT Music  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.0.3-all.jar  
