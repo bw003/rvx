@@ -4,6 +4,7 @@ enable-magisk-update = false
 
 [Youtube-Amoled]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+version = "auto"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -15,6 +16,7 @@ excluded-patches = "'Custom branding YouTube name' 'Custom branding icon Revanci
 
 [YT-Music]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+version = "auto"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
