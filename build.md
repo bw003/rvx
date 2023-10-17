@@ -1,3 +1,4 @@
+Youtube-Amoled: 18.37.36  
 YT-Music: 6.22.51  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/download/v0.2.27.230755/microg.apk) for non-root YouTube and YT Music  
