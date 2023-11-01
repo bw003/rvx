@@ -1,4 +1,4 @@
-Youtube-Amoled: 18.42.41  
+Youtube-Amoled: 18.40.34  
 YT-Music: 6.25.53  
 
 Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/download/v0.2.27.230755/microg.apk) for non-root YouTube and YT Music  
@@ -7,6 +7,6 @@ Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases/downlo
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.0.4-all.jar  
-Integrations: inotia00/revanced-integrations-0.120.8.apk  
-Patches: inotia00/revanced-patches-2.195.8.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.195.8)  
+Integrations: inotia00/revanced-integrations-0.120.12.apk  
+Patches: inotia00/revanced-patches-2.195.12.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.195.12)  
