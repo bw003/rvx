@@ -1,4 +1,5 @@
 Youtube-Amoled: 19.16.38  
+YT-Music: 6.50.51  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Integrations: anddea/revanced-integrations-0.151.0.apk  
