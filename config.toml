@@ -8,7 +8,7 @@ integrations-source = "anddea/revanced-integrations"
 cli-source = "j-hc/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode="apk"
-apkmirror-arch = "arm64-v8a"
+arch = "arm64-v8a"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Custom branding name YouTube' 'Custom branding icon YouTube'"
 
