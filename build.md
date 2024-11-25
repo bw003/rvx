@@ -1,4 +1,4 @@
-YT-Music: 7.16.53  
+Youtube-Amoled: 19.16.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 CLI: inotia00/revanced-cli-4.6.2-all.jar  
